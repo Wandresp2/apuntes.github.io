@@ -1,0 +1,2347 @@
+{
+  "vaultName": "Andres´s Brain",
+  "lastExport": 1736640349915,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon minimal-default-light minimal-default-dark minimal-readable colorful-headings links-int-on links-ext-on full-width-media",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907142729.png",
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907142737.png",
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907142842.png",
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907143005.png",
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907152618.png",
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907152827.png",
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907154328.png",
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907154519.png",
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907180541.png",
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907180904.png",
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907181158.png",
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Ecuacion cartesiana.md",
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Funciones vectoriales - 2D.md",
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Funciones vectoriales - 3D.md",
+    "Materias 3° semestre/Calculo Multivariado/2.0. Limites/Adjuntos/Pasted image 20240907190409.png",
+    "Materias 3° semestre/Calculo Multivariado/2.0. Limites/Criterio de No existencia.md",
+    "Materias 3° semestre/Calculo Multivariado/2.0. Limites/Introduccion limites.md",
+    "Materias 3° semestre/Calculo Multivariado/3.0. Continuidad-derivada/Continuidad y derivada de funciones.md",
+    "Materias 3° semestre/Calculo Multivariado/4.0. Integrales/Integral de funciones vectoriales.md",
+    "Materias 3° semestre/Calculo Multivariado/4.0. Integrales/Longitud, revolucion y area.md",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241005181537.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006175127.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006175405.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006175916.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006180017.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006180052.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006180056.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006180128.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006184715.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009155352.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009160053.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009160503.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009160743.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009160916.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009161309.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009161315.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009165244.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009170711.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009170930.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009172404.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009172645.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009172819.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009173103.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016175728.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016182944.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016190034.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016192636.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016192840.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016193027.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016194047.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021124124.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021131619.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021140246.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021140430.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021141023.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021141229.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021141826.png",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.1. Derivadas Parciales de primer orden.md",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.2. Vector gradiente.md",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.3. Derivadas parciales de segundo orden.md",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.4. Regla de la cadena.md",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.5. Optimizacion segunda derivada.md",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.6. Multiplicadores de Lagrange.md",
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.7. Integrales dobles.md",
+    "Materias 3° semestre/Calculo Multivariado/0. Calculo Multivariado.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Adjuntos/Pasted image 20240921165324.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Adjuntos/Pasted image 20240926065810.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Adjuntos/Pasted image 20240926070207.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Adjuntos/Pasted image 20240926071545.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Adjuntos/Pasted image 20240926072425.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Adjuntos/Pasted image 20240926075752.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Diagrama de caso de uso.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Diagrama de colaboracion.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Diagrama de secuencia.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903084353.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903084449.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903084502.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903084634.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903084643.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903090342.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903090411.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903093614.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903094102.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240921192528.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240921210721.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240921211311.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240921211736.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240921211935.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240922175312.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240922175609.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240922175710.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240922175731.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240926063239.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240926063512.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240926064055.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Diagrama de clases.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Diagrama de componentes.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Diagrama de despliegue.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Diagrama de objetos.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Introduccion.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Logica de programacion/Adjuntos/Pasted image 20240918172144.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Logica de programacion/Adjuntos/Pasted image 20240918185001.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Logica de programacion/Ciclo for.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Logica de programacion/pseudocodigo.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Logica de programacion/while y do while.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240919220731.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240919230706.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240920185858.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240920190317.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240920190810.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240920191736.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240921143814.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Indices y slicing.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Is instance.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Round.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Split.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Orientado a objetos/Adjuntos/Pasted image 20241007131114.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Orientado a objetos/Adjuntos/Pasted image 20241007131748.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Orientado a objetos/Adjuntos/Pasted image 20241007131946.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Orientado a objetos/Adjuntos/Pasted image 20241007135112.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Orientado a objetos/Adjuntos/Pasted image 20241007135450.png",
+    "Materias 3° semestre/Programacion Orientada a Objetos/Orientado a objetos/Clases e instancias.md",
+    "Materias 3° semestre/Programacion Orientada a Objetos/0. Programacion Orientada a Objetos.md",
+    "Materias 3° semestre/Teoria General de Sistemas/Primer parcial/Adjuntos/Pasted image 20241003092847.png",
+    "Materias 3° semestre/Teoria General de Sistemas/Primer parcial/Adjuntos/Pasted image 20241003121406.png",
+    "Materias 3° semestre/Teoria General de Sistemas/Primer parcial/Conceptos.md",
+    "Materias 3° semestre/Teoria General de Sistemas/Primer parcial/Que es TGS.md",
+    "Materias 3° semestre/Teoria General de Sistemas/Primera entrega de TGS/Estructura organizacional.md",
+    "Materias 3° semestre/Teoria General de Sistemas/0. Teoria General de Sistemas.md",
+    "Materias 3° semestre/Teoria General de Sistemas/Arquetipo erosion de metas.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240830183526.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240831123647.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240831124702.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240831124904.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240831133039.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240831135429.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240831154403.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240903103902.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240903105239.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240903111949.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/0. Cap 1 - Propiedades de los fluidos..md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/1.0. Continuo.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/1.1. Definicion de fluido.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/1.2. Dimensiones y unidades.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/1.3. Viscosidad.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/1.4. Masa, peso y variables de concentracion.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 2/Adjuntos/Pasted image 20240918155641.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 2/0. Cap 2 - libro de Cengen.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 2/2.0. Introduccion.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 2/2.1. Formas de energia.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 2/2.2. Transferencia de energia por calor.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Gases/Ley de los gases ideales.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021170805.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021171019.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021172624.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021172941.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021173143.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021173453.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021184602.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021185117.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021191035.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021192109.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021193544.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Continuidad.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Ecuacion de Bernoulli´s.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/flujo turbulento y laminar.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Notas personales.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Sistema de unidades/Adjuntos/Pasted image 20240911214723.png",
+    "Materias 3° semestre/Termodinamica y Fluidos/Sistema de unidades/1.0. Sistemas de unidades.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/Sistema de unidades/1.1. Conversiones de unidades.md",
+    "Materias 3° semestre/Termodinamica y Fluidos/0. Termodinamica y Fluidos.md",
+    "Materias 3° semestre/0. Tercer Semestre.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907142729.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 41614,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907142729.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907142737.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 41614,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907142737.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907142842.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 48962,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907142842.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907143005.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 49826,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907143005.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907152618.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 128405,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907152618.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907152827.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 113210,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907152827.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907154328.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 137327,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907154328.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907154519.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 92159,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907154519.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907180541.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 20116,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907180541.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907180904.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 92301,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907180904.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Adjuntos/Pasted image 20240907181158.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 61672,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907181158.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Ecuacion cartesiana.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 850,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/ecuacion-cartesiana.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Funciones vectoriales - 2D.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 4026,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/funciones-vectoriales-2d.html",
+      "dependencies": [
+        "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907142737.png",
+        "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907142842.png",
+        "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907143005.png",
+        "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907154328.png",
+        "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907154519.png"
+      ]
+    },
+    "Materias 3° semestre/Calculo Multivariado/1.0. Funciones vectoriales/Funciones vectoriales - 3D.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1262,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/funciones-vectoriales-3d.html",
+      "dependencies": [
+        "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907180541.png",
+        "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907180904.png",
+        "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907181158.png"
+      ]
+    },
+    "Materias 3° semestre/Calculo Multivariado/2.0. Limites/Adjuntos/Pasted image 20240907190409.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 11330,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/2.0.-limites/adjuntos/pasted-image-20240907190409.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/2.0. Limites/Criterio de No existencia.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1278,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/2.0.-limites/criterio-de-no-existencia.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/2.0. Limites/Introduccion limites.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 2012,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/2.0.-limites/introduccion-limites.html",
+      "dependencies": [
+        "materias-3°-semestre/calculo-multivariado/2.0.-limites/adjuntos/pasted-image-20240907190409.png"
+      ]
+    },
+    "Materias 3° semestre/Calculo Multivariado/3.0. Continuidad-derivada/Continuidad y derivada de funciones.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1596,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/3.0.-continuidad-derivada/continuidad-y-derivada-de-funciones.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/4.0. Integrales/Integral de funciones vectoriales.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1011,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/4.0.-integrales/integral-de-funciones-vectoriales.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/4.0. Integrales/Longitud, revolucion y area.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 925,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/4.0.-integrales/longitud,-revolucion-y-area.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241005181537.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 581919,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241005181537.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006175127.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 309744,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006175127.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006175405.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 303241,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006175405.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006175916.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 333196,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006175916.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006180017.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 638720,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006180017.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006180052.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 638292,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006180052.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006180056.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 638292,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006180056.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006180128.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 711399,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006180128.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241006184715.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 296371,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006184715.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009155352.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 69536,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009155352.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009160053.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 34998,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160053.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009160503.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 34766,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160503.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009160743.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 35308,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160743.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009160916.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 34927,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160916.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009161309.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 32070,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009161309.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009161315.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 32070,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009161315.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009165244.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 40028,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009165244.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009170711.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 20927,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009170711.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009170930.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 21843,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009170930.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009172404.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 56717,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009172404.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009172645.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 14247,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009172645.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009172819.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 12860,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009172819.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241009173103.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 22278,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009173103.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016175728.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 826138,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016175728.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016182944.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 102228,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016182944.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016190034.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 414491,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016190034.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016192636.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 414491,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016192636.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016192840.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 315110,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016192840.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016193027.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 221109,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016193027.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241016194047.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 266078,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016194047.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021124124.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 109915,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021124124.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021131619.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 42647,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021131619.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021140246.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 64810,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021140246.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021140430.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 199641,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021140430.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021141023.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 101124,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021141023.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021141229.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 102606,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021141229.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/Adjuntos/Pasted image 20241021141826.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 101288,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021141826.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.1. Derivadas Parciales de primer orden.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 2552,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/0.1.-derivadas-parciales-de-primer-orden.html",
+      "dependencies": [
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006180017.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006180056.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006180128.png"
+      ]
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.2. Vector gradiente.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 6182,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/0.2.-vector-gradiente.html",
+      "dependencies": [
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241005181537.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006184715.png"
+      ]
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.3. Derivadas parciales de segundo orden.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 2547,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/0.3.-derivadas-parciales-de-segundo-orden.html",
+      "dependencies": [
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009155352.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160053.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160503.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160743.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160916.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009161315.png"
+      ]
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.4. Regla de la cadena.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 3705,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/0.4.-regla-de-la-cadena.html",
+      "dependencies": [
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009165244.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009170711.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009170930.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009172404.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009172819.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009173103.png"
+      ]
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.5. Optimizacion segunda derivada.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 2848,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/0.5.-optimizacion-segunda-derivada.html",
+      "dependencies": [
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016175728.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016182944.png"
+      ]
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.6. Multiplicadores de Lagrange.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 5274,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/0.6.-multiplicadores-de-lagrange.html",
+      "dependencies": [
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016190034.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016192840.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016193027.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016194047.png"
+      ]
+    },
+    "Materias 3° semestre/Calculo Multivariado/Segundo corte (mejorar orden)/0.7. Integrales dobles.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 5004,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/0.7.-integrales-dobles.html",
+      "dependencies": [
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021124124.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021131619.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021140246.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021141229.png",
+        "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021141826.png"
+      ]
+    },
+    "Materias 3° semestre/Calculo Multivariado/0. Calculo Multivariado.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 108,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/0.-calculo-multivariado.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Adjuntos/Pasted image 20240921165324.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 230521,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/adjuntos/pasted-image-20240921165324.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Adjuntos/Pasted image 20240926065810.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 14942,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926065810.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Adjuntos/Pasted image 20240926070207.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 135243,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926070207.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Adjuntos/Pasted image 20240926071545.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 23363,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926071545.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Adjuntos/Pasted image 20240926072425.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 120879,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926072425.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Adjuntos/Pasted image 20240926075752.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 51739,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926075752.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Diagrama de caso de uso.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 825,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/diagrama-de-caso-de-uso.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926065810.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926070207.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Diagrama de colaboracion.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 452,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/diagrama-de-colaboracion.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926075752.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas dinamcos/Diagrama de secuencia.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1520,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/diagrama-de-secuencia.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926071545.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926072425.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903084353.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 3930,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903084353.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903084449.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1944,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903084449.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903084502.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1944,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903084502.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903084634.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 9216,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903084634.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903084643.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 2165,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903084643.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903090342.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 3180,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903090342.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903090411.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 2313,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903090411.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903093614.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1150,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903093614.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240903094102.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 70356,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903094102.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240921192528.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 48481,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921192528.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240921210721.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 176353,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921210721.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240921211311.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 49344,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921211311.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240921211736.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 17791,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921211736.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240921211935.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 395979,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921211935.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240922175312.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 10750,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175312.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240922175609.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 17124,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175609.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240922175710.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 78443,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175710.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240922175731.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 41462,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175731.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240926063239.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 33731,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240926063239.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240926063512.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 41138,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240926063512.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Adjuntos/Pasted image 20240926064055.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 199322,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240926064055.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Diagrama de clases.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 2969,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/diagrama-de-clases.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921192528.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921210721.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921211311.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921211736.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921211935.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Diagrama de componentes.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 4022,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/diagrama-de-componentes.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903084634.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903084643.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903090342.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903090411.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903093614.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903094102.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Diagrama de despliegue.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1291,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/diagrama-de-despliegue.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240926063512.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240926064055.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Diagramas estaticos/Diagrama de objetos.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1501,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/diagrama-de-objetos.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175312.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175609.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175710.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175731.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Lenguaje de modelado unificado/Introduccion.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1737,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/introduccion.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/adjuntos/pasted-image-20240921165324.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Logica de programacion/Adjuntos/Pasted image 20240918172144.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 35249,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/logica-de-programacion/adjuntos/pasted-image-20240918172144.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Logica de programacion/Adjuntos/Pasted image 20240918185001.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 69544,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/logica-de-programacion/adjuntos/pasted-image-20240918185001.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Logica de programacion/Ciclo for.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1058,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/logica-de-programacion/ciclo-for.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/logica-de-programacion/adjuntos/pasted-image-20240918172144.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Logica de programacion/pseudocodigo.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 975,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/logica-de-programacion/pseudocodigo.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Logica de programacion/while y do while.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 965,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/logica-de-programacion/while-y-do-while.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/logica-de-programacion/adjuntos/pasted-image-20240918185001.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240919220731.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 21611,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240919220731.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240919230706.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 52852,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240919230706.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240920185858.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 23849,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920185858.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240920190317.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 18768,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920190317.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240920190810.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 36050,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920190810.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240920191736.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 148710,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920191736.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Adjuntos/Pasted image 20240921143814.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 48697,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240921143814.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Indices y slicing.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 2567,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/indices-y-slicing.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920185858.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920190317.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920191736.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920190810.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Is instance.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1666,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/is-instance.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240919220731.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Round.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1340,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/round.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240919230706.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Metodos/Split.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 762,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/split.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240921143814.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Orientado a objetos/Adjuntos/Pasted image 20241007131114.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 17673,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007131114.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Orientado a objetos/Adjuntos/Pasted image 20241007131748.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 27949,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007131748.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Orientado a objetos/Adjuntos/Pasted image 20241007131946.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 68076,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007131946.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Orientado a objetos/Adjuntos/Pasted image 20241007135112.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 9917,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007135112.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Orientado a objetos/Adjuntos/Pasted image 20241007135450.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 30046,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007135450.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/Orientado a objetos/Clases e instancias.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1338,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/clases-e-instancias.html",
+      "dependencies": [
+        "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007131114.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007131946.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007135112.png",
+        "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007135450.png"
+      ]
+    },
+    "Materias 3° semestre/Programacion Orientada a Objetos/0. Programacion Orientada a Objetos.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 108,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/0.-programacion-orientada-a-objetos.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Teoria General de Sistemas/Primer parcial/Adjuntos/Pasted image 20241003092847.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 336064,
+      "exportedPath": "materias-3°-semestre/teoria-general-de-sistemas/primer-parcial/adjuntos/pasted-image-20241003092847.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Teoria General de Sistemas/Primer parcial/Adjuntos/Pasted image 20241003121406.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 342058,
+      "exportedPath": "materias-3°-semestre/teoria-general-de-sistemas/primer-parcial/adjuntos/pasted-image-20241003121406.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Teoria General de Sistemas/Primer parcial/Conceptos.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 3567,
+      "exportedPath": "materias-3°-semestre/teoria-general-de-sistemas/primer-parcial/conceptos.html",
+      "dependencies": [
+        "materias-3°-semestre/teoria-general-de-sistemas/primer-parcial/adjuntos/pasted-image-20241003092847.png",
+        "materias-3°-semestre/teoria-general-de-sistemas/primer-parcial/adjuntos/pasted-image-20241003121406.png"
+      ]
+    },
+    "Materias 3° semestre/Teoria General de Sistemas/Primer parcial/Que es TGS.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1181,
+      "exportedPath": "materias-3°-semestre/teoria-general-de-sistemas/primer-parcial/que-es-tgs.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Teoria General de Sistemas/Primera entrega de TGS/Estructura organizacional.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 16400,
+      "exportedPath": "materias-3°-semestre/teoria-general-de-sistemas/primera-entrega-de-tgs/estructura-organizacional.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Teoria General de Sistemas/0. Teoria General de Sistemas.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 108,
+      "exportedPath": "materias-3°-semestre/teoria-general-de-sistemas/0.-teoria-general-de-sistemas.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Teoria General de Sistemas/Arquetipo erosion de metas.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1360,
+      "exportedPath": "materias-3°-semestre/teoria-general-de-sistemas/arquetipo-erosion-de-metas.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240830183526.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 37806,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240830183526.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240831123647.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 82524,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831123647.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240831124702.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 84879,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831124702.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240831124904.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 148938,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831124904.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240831133039.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 109532,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831133039.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240831135429.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 100283,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831135429.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240831154403.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 40489,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831154403.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240903103902.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 333849,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240903103902.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240903105239.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 344246,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240903105239.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/Adjuntos/Pasted image 20240903111949.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 114117,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240903111949.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/0. Cap 1 - Propiedades de los fluidos..md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 732,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/0.-cap-1-propiedades-de-los-fluidos..html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/1.0. Continuo.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 2928,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/1.0.-continuo.html",
+      "dependencies": [
+        "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240830183526.png"
+      ]
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/1.1. Definicion de fluido.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 3549,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/1.1.-definicion-de-fluido.html",
+      "dependencies": [
+        "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831123647.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831124904.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831133039.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831135429.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240903103902.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240903105239.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240903111949.png"
+      ]
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/1.2. Dimensiones y unidades.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 957,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/1.2.-dimensiones-y-unidades.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/1.3. Viscosidad.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 3140,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/1.3.-viscosidad.html",
+      "dependencies": [
+        "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831154403.png"
+      ]
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 1/1.4. Masa, peso y variables de concentracion.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 196,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/1.4.-masa,-peso-y-variables-de-concentracion.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 2/Adjuntos/Pasted image 20240918155641.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 134642,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-2/adjuntos/pasted-image-20240918155641.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 2/0. Cap 2 - libro de Cengen.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 844,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-2/0.-cap-2-libro-de-cengen.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 2/2.0. Introduccion.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 623,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-2/2.0.-introduccion.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 2/2.1. Formas de energia.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 7848,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-2/2.1.-formas-de-energia.html",
+      "dependencies": [
+        "materias-3°-semestre/termodinamica-y-fluidos/capitulo-2/adjuntos/pasted-image-20240918155641.png"
+      ]
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Capitulo 2/2.2. Transferencia de energia por calor.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1481,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-2/2.2.-transferencia-de-energia-por-calor.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Gases/Ley de los gases ideales.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1426,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/gases/ley-de-los-gases-ideales.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021170805.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1107329,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021170805.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021171019.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 873573,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021171019.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021172624.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 346468,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021172624.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021172941.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 375317,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021172941.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021173143.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 390074,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021173143.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021173453.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 350213,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021173453.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021184602.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 41326,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021184602.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021185117.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 497525,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021185117.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021191035.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 306476,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021191035.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021192109.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 131393,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021192109.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Adjuntos/Pasted image 20241021193544.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 37316,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021193544.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Continuidad.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1465,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/continuidad.html",
+      "dependencies": [
+        "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021184602.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021185117.png"
+      ]
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Ecuacion de Bernoulli´s.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1685,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/ecuacion-de-bernoulli´s.html",
+      "dependencies": [
+        "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021191035.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021192109.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021193544.png"
+      ]
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/flujo turbulento y laminar.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 3213,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/flujo-turbulento-y-laminar.html",
+      "dependencies": [
+        "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021170805.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021171019.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021172624.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021172941.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021173143.png",
+        "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021173453.png"
+      ]
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Segundo corte/Notas personales.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1116,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/notas-personales.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Sistema de unidades/Adjuntos/Pasted image 20240911214723.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 44084,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/sistema-de-unidades/adjuntos/pasted-image-20240911214723.png",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Sistema de unidades/1.0. Sistemas de unidades.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1497,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/sistema-de-unidades/1.0.-sistemas-de-unidades.html",
+      "dependencies": [
+        "materias-3°-semestre/termodinamica-y-fluidos/sistema-de-unidades/adjuntos/pasted-image-20240911214723.png"
+      ]
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/Sistema de unidades/1.1. Conversiones de unidades.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1850,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/sistema-de-unidades/1.1.-conversiones-de-unidades.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/Termodinamica y Fluidos/0. Termodinamica y Fluidos.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 332,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/0.-termodinamica-y-fluidos.html",
+      "dependencies": []
+    },
+    "Materias 3° semestre/0. Tercer Semestre.md": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 90,
+      "exportedPath": "materias-3°-semestre/0.-tercer-semestre.html",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907142737.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 41614,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907142737.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907142842.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 48962,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907142842.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907143005.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 49826,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907143005.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907154328.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 137327,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907154328.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907154519.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 92159,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907154519.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907180541.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 20116,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907180541.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907180904.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 92301,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907180904.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907181158.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 61672,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/1.0.-funciones-vectoriales/adjuntos/pasted-image-20240907181158.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/2.0.-limites/adjuntos/pasted-image-20240907190409.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 11330,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/2.0.-limites/adjuntos/pasted-image-20240907190409.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006180017.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 638720,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006180017.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006180056.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 638292,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006180056.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006180128.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 711399,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006180128.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241005181537.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 581919,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241005181537.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006184715.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 296371,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241006184715.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009155352.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 69536,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009155352.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160053.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 34998,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160053.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160503.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 34766,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160503.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160743.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 35308,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160743.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160916.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 34927,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009160916.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009161315.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 32070,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009161315.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009165244.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 40028,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009165244.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009170711.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 20927,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009170711.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009170930.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 21843,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009170930.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009172404.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 56717,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009172404.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009172819.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 12860,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009172819.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009173103.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 22278,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241009173103.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016175728.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 826138,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016175728.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016182944.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 102228,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016182944.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016190034.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 414491,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016190034.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016192840.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 315110,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016192840.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016193027.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 221109,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016193027.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016194047.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 266078,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241016194047.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021124124.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 109915,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021124124.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021131619.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 42647,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021131619.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021140246.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 64810,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021140246.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021141229.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 102606,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021141229.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021141826.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 101288,
+      "exportedPath": "materias-3°-semestre/calculo-multivariado/segundo-corte-(mejorar-orden)/adjuntos/pasted-image-20241021141826.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926065810.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 14942,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926065810.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926070207.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 135243,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926070207.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926075752.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 51739,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926075752.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926071545.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 23363,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926071545.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926072425.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 120879,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-dinamcos/adjuntos/pasted-image-20240926072425.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921192528.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 48481,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921192528.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921210721.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 176353,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921210721.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921211311.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 49344,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921211311.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921211736.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 17791,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921211736.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921211935.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 395979,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240921211935.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903084634.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 9216,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903084634.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903084643.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 2165,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903084643.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903090342.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 3180,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903090342.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903090411.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 2313,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903090411.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903093614.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1150,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903093614.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903094102.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 70356,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240903094102.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240926063512.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 41138,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240926063512.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240926064055.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 199322,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240926064055.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175312.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 10750,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175312.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175609.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 17124,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175609.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175710.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 78443,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175710.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175731.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 41462,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/diagramas-estaticos/adjuntos/pasted-image-20240922175731.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/adjuntos/pasted-image-20240921165324.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 230521,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/lenguaje-de-modelado-unificado/adjuntos/pasted-image-20240921165324.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/logica-de-programacion/adjuntos/pasted-image-20240918172144.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 35249,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/logica-de-programacion/adjuntos/pasted-image-20240918172144.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/logica-de-programacion/adjuntos/pasted-image-20240918185001.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 69544,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/logica-de-programacion/adjuntos/pasted-image-20240918185001.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920185858.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 23849,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920185858.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920190317.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 18768,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920190317.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920191736.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 148710,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920191736.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920190810.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 36050,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240920190810.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240919220731.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 21611,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240919220731.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240919230706.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 52852,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240919230706.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240921143814.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 48697,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/metodos/adjuntos/pasted-image-20240921143814.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007131114.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 17673,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007131114.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007131946.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 68076,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007131946.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007135112.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 9917,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007135112.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007135450.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 30046,
+      "exportedPath": "materias-3°-semestre/programacion-orientada-a-objetos/orientado-a-objetos/adjuntos/pasted-image-20241007135450.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/teoria-general-de-sistemas/primer-parcial/adjuntos/pasted-image-20241003092847.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 336064,
+      "exportedPath": "materias-3°-semestre/teoria-general-de-sistemas/primer-parcial/adjuntos/pasted-image-20241003092847.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/teoria-general-de-sistemas/primer-parcial/adjuntos/pasted-image-20241003121406.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 342058,
+      "exportedPath": "materias-3°-semestre/teoria-general-de-sistemas/primer-parcial/adjuntos/pasted-image-20241003121406.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240830183526.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 37806,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240830183526.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831123647.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 82524,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831123647.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831124904.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 148938,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831124904.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831133039.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 109532,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831133039.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831135429.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 100283,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831135429.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240903103902.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 333849,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240903103902.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240903105239.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 344246,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240903105239.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240903111949.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 114117,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240903111949.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831154403.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 40489,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-1/adjuntos/pasted-image-20240831154403.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/capitulo-2/adjuntos/pasted-image-20240918155641.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 134642,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/capitulo-2/adjuntos/pasted-image-20240918155641.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021184602.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 41326,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021184602.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021185117.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 497525,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021185117.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021191035.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 306476,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021191035.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021192109.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 131393,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021192109.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021193544.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 37316,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021193544.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021170805.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1107329,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021170805.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021171019.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 873573,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021171019.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021172624.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 346468,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021172624.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021172941.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 375317,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021172941.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021173143.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 390074,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021173143.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021173453.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 350213,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/segundo-corte/adjuntos/pasted-image-20241021173453.png",
+      "dependencies": []
+    },
+    "materias-3°-semestre/termodinamica-y-fluidos/sistema-de-unidades/adjuntos/pasted-image-20240911214723.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 44084,
+      "exportedPath": "materias-3°-semestre/termodinamica-y-fluidos/sistema-de-unidades/adjuntos/pasted-image-20240911214723.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 100932,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 8408,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 131018,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 207299,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 253,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1736640349915,
+      "sourceSize": 108,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    }
+  }
+}
